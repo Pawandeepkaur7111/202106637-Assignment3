@@ -1,0 +1,10 @@
+ul li {  padding: 20px; display: inline; text-decoration: none;}
+nav {  font-size: 30px; }
+ ul {
+    padding-bottom: 30px; 
+ }
+ .nike { padding-left: 50px; }
+ article { display: flex; padding-top: 70px;}
+ ol li { padding-bottom: 30px;}
+ img { height:500px; width: 550px;}
+

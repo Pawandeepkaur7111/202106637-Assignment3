@@ -1,0 +1,7 @@
+ul li {  padding: 20px; display: inline; text-decoration: none;}
+nav {  font-size: 30px; }
+ ul {
+    padding-bottom: 30px; 
+ }
+ section { display:flex; padding-top: 40px;}
+ .about { padding-right: 50px;}
